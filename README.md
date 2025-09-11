@@ -3,6 +3,8 @@
 ## **Project Overview**
 This project focuses on improving operational efficiency and quality control at **Little Panda Quality Analysis (LPQA)** by analyzing defect rates in automotive component inspections. Through data analysis and visualizations created in Tableau, the project identifies key factors—such as training, tool calibration, and tool usage—that influence defect rates. The goal is to provide actionable insights that help LPQA reduce defects, optimize processes, and cut operational costs.
 
+Dashboard - https://public.tableau.com/app/profile/parth.bhavsar8858/viz/DefectsDataDashboard/Dashboard2
+
 ## **Project Objectives**
 - **Analyze Defect Rates**: Investigate the causes of high defect rates using the provided dataset.
 - **Data Visualization**: Use Tableau to create interactive visualizations that highlight the relationships between defect rates, training levels, calibration frequency, and tool usage.
